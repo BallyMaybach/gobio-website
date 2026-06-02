@@ -18,3 +18,10 @@
 - Handy: 0178 / 13 55 397
 - E-Mail: pfeiffer[at]gobio-online.de
 - Steuernummer: 06186/44334
+
+## AIOS
+
+Ballys AI Operating System liegt unter:
+`C:\Users\Bally\OneDrive\Desktop\BUSINESS\Bally Ordner\AI-OS-Bally`
+
+Dort liegen Skills, Connections, Context und alle Automatisierungen.
